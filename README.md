@@ -1,13 +1,5 @@
-# Welcome to my first repository
+# Hi I'm Jonas 
 
-## My hobbies are:
-- gaming
-- playing soccer
+Web Dev student @ [neuefische] (https://github.com/neuefische)
 
 
-### My software skills are:
-- HTML
-- CSS
-- PHP
-- C++
-- MySQL
